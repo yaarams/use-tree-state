@@ -86,7 +86,7 @@
     "webpack-cli": "^4.7.0"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17",
-    "react-dom": "^16.8.0 || ^17"
+    "react": "^16.8.0 || ^17 || ^18",
+    "react-dom": "^16.8.0 || ^17 || ^18"
   }
 }
